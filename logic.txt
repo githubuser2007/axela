@@ -1,0 +1,5 @@
+speech recognization module should recognize the voice and parse it into text
+
+the text should be stored in a variable 
+
+this variables can then be passed as a parameter for wikipedia searches and also shoudl be checked for keywords that will  tell what type of answe rthey want
